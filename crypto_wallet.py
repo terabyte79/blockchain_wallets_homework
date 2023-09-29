@@ -38,6 +38,8 @@ def generate_account():
     return account
 
 
+
+
 def get_balance(w3, address):
     """Using an Ethereum account address access the balance of Ether"""
     # Get balance of address in Wei
